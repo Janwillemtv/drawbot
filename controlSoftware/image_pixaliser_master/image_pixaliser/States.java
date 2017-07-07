@@ -1,0 +1,1 @@
+enum States {PICK,SIMULATE,PRINT,PAUSE,STOP};
